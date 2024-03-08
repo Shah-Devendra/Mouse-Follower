@@ -30,8 +30,6 @@ document.addEventListener("mousemove", function (dets) {
 
 
 
-
-
 // const cursor = new MouseFollower({
 //     container: '#main',
 //     speed: 1,
